@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://sproutit.scit.edu
+Sitemap: https://sproutit.scit.edu/sitemap.xml
